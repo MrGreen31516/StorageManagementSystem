@@ -4,7 +4,7 @@
 3. I think I need a database, but I don't have one yet.
 4. Basically, the end user is the manager of the storage facility, they need to be able to do the following: 
 
- a) See available units. 
+   a) See available units. 
 
  b) See rented units. 
 
