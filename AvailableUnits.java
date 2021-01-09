@@ -10,15 +10,12 @@ public class AvailableUnits {
 		 * instead of typing each unit in by hand. And also, is there a good way to do
 		 * this without using "System.out.println" for each row?
 		 */
-		
-		
+				
 		System.out.println("Unit Number \t Unit Size");
 		System.out.println("-------------------------------");
 		//System.out.println(//Unit x's Number \t Unit x' Size );
 		System.out.println("-------------------------------");
 		System.out.println("I want units that I have created to go here");
 		System.out.println("-------------------------------");
-
 	}
-
 }
