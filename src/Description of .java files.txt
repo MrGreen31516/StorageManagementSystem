@@ -3,6 +3,6 @@
 3. Unit.java is a class that has a Unit constructor and attributes of a Unit, it also has a method that returns a Unit data type.
 4. SelectionforUser.java is a class that asks the user to press 1 to see list of available units, 2 for rented units, 3 to create a new unit, and 0 to exit the program.
 5. AvailableUnits.java is a class produces the view when the user presses 1 (they see the list of available units).
-6. I didn't make anything for when the user presses 2 yet, so nothing happens, yet.
+6. I didn't make anything for when the user presses 2 yet, so nothing happens.
 
 
